@@ -162,8 +162,12 @@ li {
 
 @media (min-width: 768px) {
   .list__item {
-    margin-left: 63px;
+    margin-left: 40px;
     padding: 0; } }
+
+@media (min-width: 892px) {
+  .list__item {
+    margin-left: 63px; } }
 
 @media (min-width: 320px) {
   .list__link {
